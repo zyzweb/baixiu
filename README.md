@@ -10,3 +10,4 @@ $('tbody :checkbox').prop('checked', this.checked);
   - 前台list.php页面只展示3条数据且没有分页
   - 前台没有评论功能
 
+需要在phpstudy导入sql
